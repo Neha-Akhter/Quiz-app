@@ -1,0 +1,182 @@
+<resources>
+    <string name="app_name">quiz</string>
+    <string name="title">Math Master</string>
+    <string name="text">Hello, all math quiz lovers! \nThis awesome math quiz game is a free trivia brain – teasing quiz that will help you test your knowledge.  </string>
+    <string name="welcome">WELCOME TO MATH MASTER</string>
+    <string name="start">Get started</string>
+
+    <string name="score">Score</string>
+    <string name="done">Done</string>
+    <string name="points">0/10</string>
+
+
+    <string name="Question1T">If sin x=3/4 , then cos x=?</string>
+    <string name="Option1_1T">2/3</string>
+    <string name="Option2_1T">√7/2</string>
+    <string name="Option3_1T">1/2</string>
+    <string name="Option4_1T">3/4</string>
+
+    <string name="Question2T">cos² x=?</string>
+    <string name="Option1_2T">1+sin²x</string>
+    <string name="Option2_2T">1+sec²x</string>
+    <string name="Option3_2T">1-sec²x</string>
+    <string name="Option4_2T">1-sin²x</string>
+
+    <string name="Question3T">In which quadrant does p(x) lies ,if cot x > 0 and sec x>0.</string>
+    <string name="Option1_3T">2nd</string>
+    <string name="Option2_3T">3rd</string>
+    <string name="Option3_3T">1st</string>
+    <string name="Option4_3T">4th</string>
+
+    <string name="Question4T">sin(180 + x)=?</string>
+    <string name="Option1_4T">-sin x</string>
+    <string name="Option2_4T">-cos x</string>
+    <string name="Option3_4T">sin x</string>
+    <string name="Option4_4T">cos x </string>
+
+    <string name="Question5T">Find area when the sides of triangle are a , b , c.</string>
+    <string name="Option1_5T">Area= sqrt.(s(s-a)(s-b))</string>
+    <string name="Option2_5T">Area= (s(s-a)(s-b)(s-c))</string>
+    <string name="Option3_5T">Area= sqrt.(s(s-a)(s-b)(s-c))</string>
+    <string name="Option4_5T">None of these</string>
+
+    <string name="Question6T">arc tan(∞)</string>
+    <string name="Option1_6T">90</string>
+    <string name="Option2_6T">180</string>
+    <string name="Option3_6T">270</string>
+    <string name="Option4_6T">360</string>
+
+    <string name="Question7T">tan x=</string>
+    <string name="Option1_7T">sin x/cosec x</string>
+    <string name="Option2_7T">sin x/cos x</string>
+    <string name="Option3_7T">1/cos x</string>
+    <string name="Option4_7T">1/sec x </string>
+
+    <string name="Question8T"> cot x will be positive when x=?</string>
+    <string name="Option1_8T">x is between 90 and 180</string>
+    <string name="Option2_8T">x is between 180 and 270</string>
+    <string name="Option3_8T">x is exactly 90</string>
+    <string name="Option4_8T">In all above conditions</string>
+
+
+
+
+    <string name="Question1A"> If pxq= p+q+ p/q, then value of 8x2 is?</string>
+    <string name="Option1_1A">6</string>
+    <string name="Option2_1A">14</string>
+    <string name="Option3_1A">10</string>
+    <string name="Option4_1A">16</string>
+
+
+
+    <string name="Question2A"> If A:B:C=2:3:4, then A/B: B/C: C/A =?</string>
+    <string name="Option1_2A">4:9:16</string>
+    <string name="Option2_2A">8:9:12</string>
+    <string name="Option3_2A">8:9:16</string>
+    <string name="Option4_2A">8:9:24</string>
+
+    <string name="Question3A"> if 2x²+4x+2 , then x=?</string>
+    <string name="Option1_3A">-2,-1</string>
+    <string name="Option2_3A">1,2</string>
+    <string name="Option3_3A">-1,2</string>
+    <string name="Option4_3A">None of these</string>
+
+    <string name="Question4A">If x-y=1, then x3 -y3 -3xy= ? </string>
+    <string name="Option1_4A">1</string>
+    <string name="Option2_4A">2</string>
+    <string name="Option3_4A">3</string>
+    <string name="Option4_4A">0</string>
+
+    <string name="Question5A"> On solving 2p - 3q - 4r + 6r - 2q + p, the answer will be?</string>
+    <string name="Option1_5A">8q -5r</string>
+    <string name="Option2_5A">10p + 3q - 5r</string>
+    <string name="Option3_5A">3p - 5q + 2r</string>
+    <string name="Option4_5A">7p + 5r</string>
+
+    <string name="Question6A"> If -4x + 5y is subtracted from 3x + 2y then the answer will be</string>
+    <string name="Option1_6A">x - 3y</string>
+    <string name="Option2_6A">2x + 5y</string>
+    <string name="Option3_6A">3x + 6y</string>
+    <string name="Option4_6A">x + 3y</string>
+
+    <string name="Question7A">  On solving the algebraic expression -38b⁄2, the answer will be</string>
+    <string name="Option1_7A">x19b</string>
+    <string name="Option2_7A">−19b</string>
+    <string name="Option3_7A">56b</string>
+    <string name="Option4_7A">−56b</string>
+
+    <string name="Question8A">  If Ana is x years old then 5 times Ana\'s age three years ago is</string>
+    <string name="Option1_8A">3(x - 5)</string>
+    <string name="Option2_8A">5(x - 3)</string>
+    <string name="Option3_8A">3(x + 5)</string>
+    <string name="Option4_8A">5(x + 3)</string>
+
+
+
+
+    <string name="Question1G"> Vertical angles that are opposite to each other are also:</string>
+    <string name="Option1_1G">Not equal</string>
+    <string name="Option2_1G">Opposite</string>
+    <string name="Option3_1G">Scalene</string>
+    <string name="Option4_1G">Equal</string>
+
+
+
+    <string name="Question2G">Two lines that make an angle are called:</string>
+    <string name="Option1_2G">Scalene</string>
+    <string name="Option2_2G">Rays</string>
+    <string name="Option3_2G">Segment</string>
+    <string name="Option4_2G">Vertex</string>
+
+
+    <string name="Question3G">The perimeter of an equilateral triangle is 72√3 meters. Find its height?</string>
+    <string name="Option1_3G">63 meters</string>
+    <string name="Option2_3G">25 meters</string>
+    <string name="Option3_3G">36 meters</string>
+    <string name="Option4_3G">12 meters</string>
+
+
+
+    <string name="Question4G"> A polygon having 10 sides is called:</string>
+    <string name="Option1_4G">Decagon</string>
+    <string name="Option2_4G">Heptagon</string>
+    <string name="Option3_4G">Octagon</string>
+    <string name="Option4_4G">Quadrilateral</string>
+
+
+
+    <string name="Question5G">Two lines intersect</string>
+    <string name="Option1_5G">at a point</string>
+    <string name="Option2_5G">in a line</string>
+    <string name="Option3_5G">at two points</string>
+    <string name="Option4_5G">at an infinite number of points</string>
+
+
+
+    <string name="Question6G">: A polygon having 8 sides is called:</string>
+    <string name="Option1_6G">Hexagon</string>
+    <string name="Option2_6G">Nonagon</string>
+    <string name="Option3_6G">Decagon</string>
+    <string name="Option4_6G">Octagon</string>
+
+
+    <string name="Question7G">In a ∆ ABC, if 2∠A =3∠B =6∠C, Then ∠B=?</string>
+    <string name="Option1_7G">30</string>
+    <string name="Option2_7G">45</string>
+    <string name="Option3_7G">60</string>
+    <string name="Option4_7G">90</string>
+
+
+
+    <string name="Question8G">If two diagonals are given, then we can construct a:</string>
+    <string name="Option1_8G">Rhombus</string>
+    <string name="Option2_8G"> Rectangle</string>
+    <string name="Option3_8G">Kite</string>
+    <string name="Option4_8G">Parallelogram</string>
+
+
+
+
+
+
+</resources>
